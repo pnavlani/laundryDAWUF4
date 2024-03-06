@@ -14,6 +14,8 @@
   <section class="container">
     <div class="login">
       <h1>Login to Laundry Shop</h1>
+	<?php echo "Comentari desplegament" ?>
+
       <form method="post" id="form-login">
         <p><input autofocus type="text" id="username" value="" placeholder="Username" required></p>
         <p><input type="password" id="password" value="" placeholder="Password" required></p>
