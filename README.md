@@ -1,2 +1,1 @@
-Commit inicial per a la branca develop
-featurePNR basada en develop
+Commit colab per la nova branca PNR-EEJ
